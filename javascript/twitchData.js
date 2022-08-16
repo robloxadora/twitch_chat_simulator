@@ -18,13 +18,13 @@ var positiveMessages = [
     "VAC", "VAC", "VAC", "VAC", "VAC", "VAC", "WTF", "LUL", "holy shit","SAVED",
     "ez", "GG", "Kappa", "4Head", "WHAT", "PogChamp", "PogChamp PogChamp PogChamp PogChamp PogChamp",
     "KQLY STYLE", "ANY NAFFERS SeriousSloth", "Kreygasm", "Pog", "PogU", "CatJam", "PogU Clap",
-    "5Head", "300 IQ", "Jebaited", "FeelsGoodMan", "<3"];
+    "5Head", "300 IQ", "Jebaited", "FeelsGoodMan", "<3", "W", "W ROBLOXADORA", "VALORANT", "ROBLOX", "Minecraft", "Fall Guys" "Fortnite", "Yes", "Counter Strike", "Snake.io", "Geometry Dash", "Subway Surfers", 
 var negativeMessages = [
     "BOT", "BOT", "BOT", "BOT", "BOT", "NA CS", "NA CS", "WTF",
     "LUL", "HAHAHAHA", "OMG", "LMAO", "so bad omg", "xD", "gg", "RUINED", "Kappa", "WutFace",
     "NotLikeThis", "4Head", "OMEGALUL", "OMEGALUL Clap", "JAME TIME", "BibleThump",
-    "My team Sadge", "KEKW", "Pepega", "D:", "WeirdChamp", "monkaS"];
-var bobRossMessages = ["SAVED", "RUINED", "SAVED", "RUINED", "CoolStoryBob"];
+    "My team Sadge", "KEKW", "Pepega", "D:", "WeirdChamp", "monkaS", "YOUR SO BAD", "L", "YOU SUCK"];
+var bobRossMessages = ["SAVED", "RUINED", "SAVED", "RUINED", "CoolStoryBob", "NO"];
 var spamMessages = [
     "is it me or is olofmeister a bit of a boring player. like u see it at the end of the game \"oh wow olofmeister has 32 kills\" but u can never remember them. can u remember a single olofmeister kill ? but try guardian...u can see the flick. I remember a guardian flick."];
 
